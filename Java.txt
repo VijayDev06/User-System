@@ -1,6 +1,7 @@
 Hello How are you
 
 2nd changes conflict
+1st changes Conflict
 
 Some new thongs Added 
 
